@@ -1,3 +1,12 @@
+# [](https://github.com/electron-userland/electron-builder/compare/v23.3.0...v) (2022-07-05)
+
+
+### Features
+
+* Add installDir property for NsisUpdater ([#6907](https://github.com/electron-userland/electron-builder/issues/6907)) ([e7f2867](https://github.com/electron-userland/electron-builder/commit/e7f286776643823f9c906738aade1d71eb1bdd9c))
+
+
+
 # [](https://github.com/electron-userland/electron-builder/compare/v23.2.0...v) (2022-07-04)
 
 
